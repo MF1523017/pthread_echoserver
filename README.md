@@ -1,12 +1,12 @@
 #learn thread and net
 
-##usage
+##usage:
 
 ###open server
-> ./echoserver_pre <port>
+> ./echoserver_pre port
 
 ###open client
-> ./echoclient <server_ip> <port>
+> ./echoclient server_ip port
 
 ##files
 * csapp.c:some common func
